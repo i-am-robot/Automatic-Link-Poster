@@ -1,0 +1,4 @@
+http://www.google.com
+http://www.youtube.com
+http://www.whitehouse.gov
+https://www.reddit.com/r/RequestABot/comments/3d2yqs/automatic_posting/
