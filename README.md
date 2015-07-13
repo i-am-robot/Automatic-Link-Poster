@@ -1,4 +1,2 @@
 # Automatic-Link-Poster
-Robot for Reddit
-
-link coming soon!
+Setup oauth.txt, customize variables in bot.py, and change the links in links.txt!
