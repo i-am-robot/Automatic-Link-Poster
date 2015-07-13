@@ -1,2 +1,2 @@
 # Automatic-Link-Poster
-Setup oauth.txt, customize variables in bot.py, and change the links in links.txt!
+Go to https://www.reddit.com/r/RequestABot/comments/3d2yqs/automatic_posting/ct1f190 for help!
