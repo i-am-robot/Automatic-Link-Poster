@@ -25,6 +25,7 @@ if links != None:
 	html = BeautifulSoup(URLObject.read(), "html.parser")
 	title = html.find('title').contents[0]
 	
+	o.refresh()
 	r.submit(SUBREDDIT, title, url=randomLink, resubmit=True)
 	
 else:
